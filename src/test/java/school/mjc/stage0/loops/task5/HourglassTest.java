@@ -34,7 +34,7 @@ class HourglassTest extends BaseIOTest {
 
         hourglass.printHourglassOfGivenSize(6);
 
-        assertOutEquals(expected);
+            assertOutEquals(expected);
     }
 
     @Test
